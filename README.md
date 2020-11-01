@@ -1,7 +1,7 @@
 ### Hi there, I am Fahim 👋
 I am a Software Developer from Canada. I am interested in developing software solutions with JavaScript, TypeScript, and Java.
 <br/>
-I am interested in DevOps, Cryptocurrency, and Blockchain.
+💬 Ask me about DevOps, Cryptocurrency, and Blockchain.
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farque65)](https://github.com/anuraghazra/github-readme-stats)
 
