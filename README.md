@@ -1,4 +1,4 @@
-### Hi there I am Fahim Crytpo and Cloud enthusiast 👋
+### Hi there, I am Fahim Crytpo and Cloud enthusiast 👋
 
 <!--
 **farque65/farque65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
