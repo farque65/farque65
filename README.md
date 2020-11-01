@@ -4,6 +4,8 @@ I am a Software Developer from Canada. I am interested in developing software so
 <br/>
 I am interested in DevOps, Cryptocurrency, and Blockchain.
 <br/>
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farque65)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
