@@ -5,6 +5,9 @@
 💬 Ask me about DevOps, Cryptocurrency, and Blockchain.
 <br/>
 <br/>
+📫 reach me at https://dev.to/farque65
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farque65)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
