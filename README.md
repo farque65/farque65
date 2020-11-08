@@ -1,4 +1,4 @@
-### Hi there, I am Fahim 👋
+### Hi, I am Fahim 👋
 💾 I am a Software Developer from Canada. I am interested in developing software solutions with JavaScript, TypeScript, and Java.
 <br/>
 <br/>
