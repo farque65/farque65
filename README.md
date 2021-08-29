@@ -1,5 +1,5 @@
 ### Hi, I am Fahim 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farque65&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=farque65&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="mini-pingu" /> </p> -->
 
 💾 I am a Software Developer from Canada. I am interested in developing software solutions with JavaScript, TypeScript, and Python.
 <br/>
