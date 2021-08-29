@@ -8,7 +8,6 @@
 📫 reach me at https://dev.to/farque65
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farque65)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **farque65/farque65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
