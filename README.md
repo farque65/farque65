@@ -2,7 +2,7 @@
 💾 I am a Software Developer from Canada. I am interested in developing software solutions with JavaScript, TypeScript, and Python.
 <br/>
 <br/>
-💬 Ask me about Front End Development, DevOps, Cryptocurrency, and Blockchain.
+💬 Ask me about Javascript Front End Frameworks, DevOps, and Blockchain.
 <br/>
 <br/>
 📫 reach me at https://dev.to/farque65
