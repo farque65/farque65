@@ -7,7 +7,7 @@
 💬 Ask me about Javascript Front End Frameworks, DevOps, and Blockchain.
 <br/>
 <br/>
-📫 reach me at [twitter](https://twitter.com/fahimeth) / [DEV.TO](https://dev.to/farque65)
+📫 [TWITTER](https://twitter.com/fahimeth) / [DEV.TO](https://dev.to/farque65)
 <br/>
 <br/>
 
