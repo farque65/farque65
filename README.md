@@ -7,7 +7,7 @@
 💬 Ask me about Javascript and Blockchain.
 <br/>
 <br/>
-📫 [TWITTER](https://twitter.com/fahimeth) / [DEV.TO](https://dev.to/farque65)
+📫 [TWITTER](https://twitter.com/fahimeth)
 <br/>
 <br/>
 
