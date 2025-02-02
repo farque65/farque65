@@ -1,27 +1,35 @@
 ### Hi, I am Fahim 👋
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=farque65&label=PROFILE+VIEWS&color=0e75b6&style=plastic" alt="mini-pingu" /> </p> -->
+💻 Software Engineer | Full-Stack & Data Engineering
+<br/>
+<br/>
+I'm a Full-Stack Software Engineer from Canada with 6+ years of experience designing, building, and optimizing scalable web applications, APIs, and data pipelines. I specialize in JavaScript (React.js, Node.js, TypeScript) and Python, with expertise in cloud-native development, and data engineering.
+<br/>
+<br/>
+🚀 What I Do:
+<br/>
+<br/>
+Develop scalable web applications using React.js, Vite and Next.js
+Build and optimize backend services & APIs with Node.js, and Python
+Design cloud-based data solutions on AWS, and Azure
+Implement CI/CD pipelines & DevOps workflows with GitHub Actions and Docker
+Support machine learning & analytics with data pipelines (Apache Airflow, Spark, Kafka)
+<br/>
+<br/>
+💡 Ask Me About:
+<br/>
+<br/>
+JavaScript, TypeScript, and Python for software development
+Cloud & DevOps best practices
+Data engineering & real-time processing
+Blockchain & Web3 development
+<br/>
+<br/>
+📫 Let’s Connect:
+<br/>
+<br/>
+🐦 [TWITTER](https://twitter.com/fahimeth)
 
-💾 I am a Software Developer from Canada. I am interested in developing software solutions with JavaScript, TypeScript, and Python.
-<br/>
-<br/>
-💬 Ask me about Javascript and Blockchain.
-<br/>
-<br/>
-📫 [TWITTER](https://twitter.com/fahimeth)
-<br/>
-<br/>
 
-<!--
-**farque65/farque65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
