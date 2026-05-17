@@ -44,10 +44,9 @@ If you have an interesting problem, I'm probably up for it — [reach out](https
 
 | Project | Stack | Description |
 |---|---|---|
-| [**Folio**](#) | Vite · React · TypeScript · pdf-lib · Web Workers | Browser-native PDF group builder. Upload images, arrange them into named groups, edit print layout per page (crop, place, rotate), generate PDFs — everything runs client-side, zero backend. |
-| [**Adventures Of**](#) | React · Node.js · GPT-4 Turbo · DALL-E 3 · Stripe | Personalized AI-generated children's storybook platform. Four-step wizard, custom illustrations, digital and print tiers. |
-| [**openclaw**](#) | Self-hosted VPS · OpenRouter · Qwen 3 | Personal AI coding agent. Experiments in self-hosted LLM tooling and agentic workflows on a Hostinger VPS. |
-| [**French Training Platform**](#) | Next.js · TypeScript | *(in progress)* Language training SaaS for Canadian federal workers. Taps into legally mandated bilingualism requirements under the Official Languages Act. |
+| [**Folio**](https://github.com/farque65/FOLIO-PDF-GROUP-BUILDER) | Vite · React · TypeScript · pdf-lib · Web Workers | Browser-native PDF group builder. Upload images, arrange them into named groups, edit print layout per page (crop, place, rotate), generate PDFs — everything runs client-side, zero backend. |
+<!--| [**openclaw**](#) | Self-hosted VPS · OpenRouter · Qwen 3 | Personal AI coding agent. Experiments in self-hosted LLM tooling and agentic workflows on a Hostinger VPS. |
+| [**French Training Platform**](#) | Next.js · TypeScript | *(in progress)* Language training SaaS for Canadian federal workers. Taps into legally mandated bilingualism requirements under the Official Languages Act. |-->
 
 *More projects coming — this list is a work in progress.*
 
