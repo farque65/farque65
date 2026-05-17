@@ -2,7 +2,7 @@
 
 **Software Engineer · Builder · Ottawa, Canada**
 
-Full-stack engineer with 8+ years across the stack — from React frontends to cloud infrastructure to data pipelines. I work as an IT Analyst in the Canadian federal government and build things on the side that I think should exist. Bilingual (EN/FR, Government of Canada certified).
+Full-stack engineer with 8+ years across the stack — from React frontends to cloud infrastructure to data pipelines.
 
 If you have an interesting problem, I'm probably up for it — [reach out](https://twitter.com/fahimeth).
 
@@ -55,18 +55,17 @@ If you have an interesting problem, I'm probably up for it — [reach out](https
 ## Currently exploring
 
 - Browser-native tooling (complex apps with no backend)
-- Micro-SaaS opportunities in the Canadian federal government space
 - Self-hosted AI agents and LLM workflows
 - Building in public
+- Automating digital goods and ecommerce processes
 
 ---
 
 ## A bit more about me
 
-- 🏛️ IT Analyst at **ESDC** (Employment and Social Development Canada)
-- 🏢 Previously: i-Sight · Signiant · Entrust Datacard · Algonquin College
-- 📜 ITIL v3 certified · Government of Canada bilingual (EN/FR)
-- 🍁 Based in Ottawa, Ontario
+- 🏢 Full Stack Developer with over 6 years of experience
+- 📜 Bilingual (EN/FR)
+- 🍁 Based in Canada
 - 💬 Ask me about full-stack architecture, cloud DevOps, data pipelines, or getting something shipped
 
 ---
